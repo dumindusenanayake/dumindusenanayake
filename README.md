@@ -1,16 +1,24 @@
-## Hi there 👋
+# Dumindu Senanayake
 
-<!--
-**dumindusenanayake/dumindusenanayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager & Designer | Blockchain Infrastructure
 
-Here are some ideas to get you started:
+## Portfolio
+👉 **[View my full portfolio on Notion]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Case studies, design work, and product artifacts showcasing my work at 
+Supra Oracle building products from 0 to $800M+ TVS.
+
+## What I Do
+- Ship developer-facing blockchain infrastructure products -  VRF,  Oracle data feeds, Onchain defi Analytics,  OHLC data APIs,  Validator/ tokenomics dashboards.
+- Design high-fidelity prototypes (Figma AI) and sketch low fidelty wireframes
+- Write comprehensive product specifications,  dev guides.
+- Bridge R&D, design, and engineering
+
+## Currently
+Product Manager at Supra Oracle  
+Building oracle feeds, VRF, and onchain analytics across 80+ chains
+
+## Connect
+- Portfolio:
+- LinkedIn:
+- Email: dumindudarshana2020@gmail.com
