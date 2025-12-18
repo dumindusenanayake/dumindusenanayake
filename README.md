@@ -1,6 +1,6 @@
 # Dumindu Senanayake
 
-Product Manager & Designer | Blockchain Infrastructure
+Product Manager - Blockchain Infrastructure |DeFi Data| Onchain Analytics
 
 ## Portfolio
 👉 **[View my full portfolio on Notion]**
