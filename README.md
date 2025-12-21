@@ -26,6 +26,6 @@ Building oracle feeds, VRF, and on-chain analytics across **80+ chains**
 ---
 
 ## Connect
-- 🌐 Portfolio: **[https://dumindu.xyz](https://dumindu.xyz)**
+- 🌐 Portfolio: **[[dumindu.xyz](http://dumindu.xyz)]**
 - 💼 LinkedIn: **[https://linkedin.com/in/dumindus](https://linkedin.com/in/dumindus)**
 - 📧 Email: **[dumindudarshana2020@gmail.com](mailto:dumindudarshana2020@gmail.com)**
