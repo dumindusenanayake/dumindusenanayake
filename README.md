@@ -4,7 +4,7 @@
 ---
 
 ## Portfolio
-👉 **[dumindu.xyz](www.dumindu.xyz)**
+👉 **[dumindu.xyz]((http://dumindu.xyz))**
 
 Case studies, design work, and product artifacts showcasing my work at **Supra Oracle**,  
 building developer-facing products from **0 → $800M+ TVS**.
