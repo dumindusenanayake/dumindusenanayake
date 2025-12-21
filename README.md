@@ -3,7 +3,7 @@
 Product Manager - Blockchain Infrastructure |DeFi Data| Onchain Analytics
 
 ## Portfolio
-👉 **[View my full portfolio on Notion]**
+👉 **[dumindu.xyz]**
 
 Case studies, design work, and product artifacts showcasing my work at 
 Supra Oracle building products from 0 to $800M+ TVS.
@@ -19,6 +19,6 @@ Product Manager at Supra Oracle
 Building oracle feeds, VRF, and onchain analytics across 80+ chains
 
 ## Connect
-- Portfolio:
-- LinkedIn:
+- Portfolio:dumindu.xyz
+- LinkedIn:linkedin.com/in/dumindus/
 - Email: dumindudarshana2020@gmail.com
